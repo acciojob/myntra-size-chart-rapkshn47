@@ -1,2 +1,12 @@
+table, td,th{
+	border-collapse: collapse;
+	border: 2px black solid;
+}
 
-/* Your CSS Code here. */
+table{
+	width: 100%;
+}
+
+th{
+	text-align: start; 
+}
